@@ -37,5 +37,4 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 ### 🌐 Beyond the Code
 With a background spanning **Security Analytics** and **Professional Services**, I view AI not just as a technology, but as a lever for operational transformation. I specialize in building the "connective tissue" that makes AI work in production.
 
-[LinkedIn](https://www.linkedin.com/in/michael-romero/) | [Portfolio Site](#)
-
+[LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Portfolio Site](#)
