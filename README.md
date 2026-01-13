@@ -37,6 +37,8 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 ### 🌐 Beyond the Code
 I hold a **B.S. in Information Technology** from George Mason University and an active **DoD Secret Clearance**. My journey has taken me from automating **cybersecurity compliance and audit workflows at CACI** to engineering **high-scale AI data pipelines for deepfake detection at McAfee**. 
 
-I view AI not just as a technology, but as a lever for operational transformation. I specialize in building the "connective tissue"—the automation, observability, and data quality guardrails—that makes AI work in production.
+I am deeply passionate about **working with data**, **building interactive dashboards**, and **identifying business operations** that can be automated to drive efficiency. This GitHub profile serves as my primary project hub, where I host my work in bridging the gap between raw data and operational intelligence.
+
+I specialize in building the "connective tissue"—the automation, observability, and data quality guardrails—that makes AI work in production.
 
 [LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Resume (Contact for Copy)](#)
