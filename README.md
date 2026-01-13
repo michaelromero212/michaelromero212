@@ -45,13 +45,13 @@ I specialize in building the "connective tissue"—the automation, observability
 
 
 
+# 🧠 Knowledge Copilot
+### **Enterprise AI Assistant for Databricks Professional Services**
+
+> **Repository**: `michaelromero212/Databricks-PS-Knowledge-Copilot`  
+> **Status**: [Operational] | **Context**: RAG-Powered Knowledge Scaling
 
 
-1. Databricks-PS-Knowledge-Copilot
-Target Repo: Databricks-PS-Knowledge-Copilot
-
-# 🧠 Databricks PS Knowledge Copilot
-### Enterprise RAG-Powered Knowledge Assistant for Professional Services
 > **Status**: [Operational] | **Context**: Databricks Professional Services (PS) Scaling
 ## 🚀 Project Overview
 The **Knowledge Copilot** is a high-performance, retrieval-augmented generation (RAG) assistant designed to scale expertise within Databricks PS teams. It solves the "Expertise Bottleneck" by providing instant, grounded answers to complex consulting and architectural questions based on authenticated internal documentation.
@@ -68,11 +68,15 @@ The **Knowledge Copilot** is a high-performance, retrieval-augmented generation 
 ## 📈 Why This Matters
 In a high-growth consulting environment, knowledge latency equals project risk. This tool transforms static documentation into an active peer-review partner, reducing research time for senior architects and accelerating onboarding for new consultants.
 ---
-2. Databricks-PS-AI-Engagement-Runbook-Generator
-Target Repo: Databricks-PS-AI-Engagement-Runbook-Generator
+
 
 # 📘 Engagement Runbook Generator
-### Intelligent Automation for Professional Services Lifecycle Management
+### **Intelligent Automation for the Consulting Lifecycle**
+
+> **Repository**: `michaelromero212/Databricks-PS-AI-Engagement-Runbook-Generator`  
+> **Value**: 80% Reduction in Manual Formatting Time
+
+
 > **Status**: [Production-Ready] | **Value**: 80% Reduction in Manual Formatting Time
 ## 🚀 Project Overview
 This tool automates the most time-consuming part of the consulting lifecycle: the creation of structured **Engagement Runbooks**. By applying NLP and intelligent parsing to Slack exports, kickoff notes, and architecture diagrams, it generates standardized, client-ready documentation in seconds.
