@@ -6,6 +6,12 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 
 ### 🛠️ Featured Work
 
+#### [AI SDR Performance Operations Dashboard](https://github.com/michaelromero212/AI-SDR-Performance-Operations-Dashboard)
+*Production-grade AI agent lifecycle management with governance, QA, and real-time monitoring.*
+- **Problem**: Managing AI sales agents at scale requires governance, quality assurance, and continuous optimization—not just LLM deployment.
+- **Solution**: A complete AI Operations platform featuring automated QA (15+ test scenarios), compliance frameworks, A/B testing, conversion analytics, and real-time agent monitoring.
+- **Business Impact**: Demonstrates the full AI Ops PM skill set: process optimization, governance documentation, UAT coordination, KPI tracking, and field enablement.
+
 #### [AI Operations GTM Simulator](https://github.com/michaelromero212/ai-ops-gtm-simulator)
 *Operationalizing AI for scale.*
 - **Problem**: GTM AI agents lack production-readiness guardrails and observable performance metrics.
