@@ -8,18 +8,23 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 
 #### [AI Operations GTM Simulator](https://github.com/michaelromero212/ai-ops-gtm-simulator)
 *Operationalizing AI for scale.*
-- **Problem**: GTM AI agents lack production-readiness guardrails.
+- **Problem**: GTM AI agents lack production-readiness guardrails and observable performance metrics.
 - **Solution**: A simulation engine to stress-test and observe agent behavior in enterprise workflows.
 
-#### [Enterprise Mission Intelligence Copilot](https://github.com/michaelromero212/enterprise-mission-intel-copilot)
-*Turning unstructured data into mission-critical insights.*
-- **Problem**: High-stakes data intake is slow and prone to human error.
-- **Solution**: An Applied AI analyst tool for automated document intelligence and structured analysis.
+#### [Databricks Knowledge Copilot](https://github.com/michaelromero212/Databricks-PS-Knowledge-Copilot)
+*Enterprise RAG for Professional Services.*
+- **Problem**: Knowledge latency in high-stakes consulting environments.
+- **Solution**: A FastAPI + React assistant that provides grounded answers from authenticated technical documentation.
 
-#### [AI Pipeline Reliability Monitor](https://github.com/michaelromero212/ai-pipeline-reliability-monitor)
-*Securing the AI lifecycle.*
-- **Problem**: AI pipelines suffer from silent failures and data drift in security contexts.
-- **Solution**: Real-time health monitoring for security-critical AI data pipelines.
+#### [Engagement Runbook Generator](https://github.com/michaelromero212/Databricks-PS-AI-Engagement-Runbook-Generator)
+*Automating the consulting lifecycle.*
+- **Problem**: Manual formatting of engagement artifacts is error-prone and time-intensive.
+- **Solution**: An NLP-driven automation tool that transforms Slack exports and kickoff notes into client-ready runbooks.
+
+#### [Enterprise Mission Intelligence Copilot](https://github.com/michaelromero212/enterprise-mission-intel-copilot)
+*Turning unstructured data into actionable insights.*
+- **Problem**: Critical mission data is often trapped in unstructured, high-latency formats.
+- **Solution**: An Applied AI analyst tool for automated document intelligence and validated extraction.
 
 ---
 
@@ -27,9 +32,9 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 
 | Category | Description |
 | :--- | :--- |
-| **AI Ops & Tooling** | Automation, log analysis, and workflow inspection for Databricks. |
-| **Document Intelligence** | Enterprise "Copilots" for specialized mission and maintenance data (RAG/FastAPI). |
-| **Security & Reliability** | AI health monitors and threat detection dashboards. |
+| **AIOps & Reliability** | **[AI Pipeline Monitor](https://github.com/michaelromero212/ai-pipeline-reliability-monitor)** (Drift Detection) & **[Workflow Inspector](https://github.com/michaelromero212/Databricks-PS-AI-Workflow-Inspector)**. |
+| **Data & Automation** | Log analysis, data quality guardrails, and business operations efficiency tools. |
+| **Security & Audits** | **[Threat Anomaly Dashboard](https://github.com/michaelromero212/Cyber-Threat-Anomaly-Detection-Dashboard)** & Compliance Automation. |
 | **[AI Innovation Labs](https://github.com/michaelromero212?q=demo)** | Experiments, evaluations, and prototype demos. |
 
 ---
@@ -42,54 +47,3 @@ I am deeply passionate about **working with data**, **building interactive dashb
 I specialize in building the "connective tissue"—the automation, observability, and data quality guardrails—that makes AI work in production.
 
 [LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Resume (Contact for Copy)](#)
-
-
-
-# 🧠 Knowledge Copilot
-### **Enterprise AI Assistant for Databricks Professional Services**
-
-> **Repository**: `michaelromero212/Databricks-PS-Knowledge-Copilot`  
-> **Status**: [Operational] | **Context**: RAG-Powered Knowledge Scaling
-
-
-> **Status**: [Operational] | **Context**: Databricks Professional Services (PS) Scaling
-## 🚀 Project Overview
-The **Knowledge Copilot** is a high-performance, retrieval-augmented generation (RAG) assistant designed to scale expertise within Databricks PS teams. It solves the "Expertise Bottleneck" by providing instant, grounded answers to complex consulting and architectural questions based on authenticated internal documentation.
-## 🛠️ The Tech Stack
-- **AI Core**: RAG architecture with automated document ingestion and embedding workflows.
-- **Backend**: **FastAPI** (Python) for low-latency query handling and state management.
-- **Frontend**: **React** for a responsive, dashboard-style user experience.
-- **Data Layer**: Optimized for Databricks-specific documentation and internal project artifacts.
-## ✨ Key Features & Proof Points
-- **Grounded Intelligence**: Prevents hallucinations by surfacing only documented facts with citation-style grounding.
-- **Automated Ingestion**: Python-based scripts that normalize unstructured docs into searchable vectors.
-- **Observability**: Real-time health monitoring of backend services and vector database connectivity.
-- **Scalable UI**: Modern React interface designed for high-density information lookup.
-## 📈 Why This Matters
-In a high-growth consulting environment, knowledge latency equals project risk. This tool transforms static documentation into an active peer-review partner, reducing research time for senior architects and accelerating onboarding for new consultants.
----
-
-
-# 📘 Engagement Runbook Generator
-### **Intelligent Automation for the Consulting Lifecycle**
-
-> **Repository**: `michaelromero212/Databricks-PS-AI-Engagement-Runbook-Generator`  
-> **Value**: 80% Reduction in Manual Formatting Time
-
-
-> **Status**: [Production-Ready] | **Value**: 80% Reduction in Manual Formatting Time
-## 🚀 Project Overview
-This tool automates the most time-consuming part of the consulting lifecycle: the creation of structured **Engagement Runbooks**. By applying NLP and intelligent parsing to Slack exports, kickoff notes, and architecture diagrams, it generates standardized, client-ready documentation in seconds.
-## 🛠️ The Tech Stack
-- **Automation Core**: **Python**-driven NLP pipeline for data extraction and normalization.
-- **API Engine**: **FastAPI** for robust, asynchronous processing of large document batches.
-- **Frontend**: **React + TypeScript** for enterprise-grade type safety and UI consistency.
-- **Integration**: Designed to interface with Databricks APIs and common communication platforms (Slack, Jira).
-## ✨ Key Features & Proof Points
-- **Unstructured Data Parsing**: Converts conversational Slack exports into structured project milestones.
-- **Standardized Output**: Ensures consistency across PS engagements by enforcing a central runbook schema.
-- **Smart Extracts**: Automatically identifies key decision points and technical requirements from kickoff logs.
-- **Live Pipeline Tracking**: Real-time visual feedback of document processing status.
-## 📈 Why This Matters
-Manual runbook generation is an error-prone process that distracts consultants from high-value architectural work. This generator ensures data integrity across teams while allowing consultants to focus on delivery rather than administrative formatting.
----
