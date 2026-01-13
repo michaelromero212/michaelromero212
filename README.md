@@ -28,13 +28,15 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 | Category | Description |
 | :--- | :--- |
 | **AI Ops & Tooling** | Automation, log analysis, and workflow inspection for Databricks. |
-| **Document Intelligence** | Enterprise "Copilots" for specialized mission and maintenance data. |
+| **Document Intelligence** | Enterprise "Copilots" for specialized mission and maintenance data (RAG/FastAPI). |
 | **Security & Reliability** | AI health monitors and threat detection dashboards. |
 | **[AI Innovation Labs](https://github.com/michaelromero212?q=demo)** | Experiments, evaluations, and prototype demos. |
 
 ---
 
 ### 🌐 Beyond the Code
-With a background spanning **Security Analytics** and **Professional Services**, I view AI not just as a technology, but as a lever for operational transformation. I specialize in building the "connective tissue" that makes AI work in production.
+I hold a **B.S. in Information Technology** from George Mason University and an active **DoD Secret Clearance**. My journey has taken me from automating **cybersecurity compliance and audit workflows at CACI** to engineering **high-scale AI data pipelines for deepfake detection at McAfee**. 
 
-[LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Portfolio Site](#)
+I view AI not just as a technology, but as a lever for operational transformation. I specialize in building the "connective tissue"—the automation, observability, and data quality guardrails—that makes AI work in production.
+
+[LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Resume (Contact for Copy)](#)
