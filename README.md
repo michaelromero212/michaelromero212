@@ -6,6 +6,12 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 
 ### 🛠️ Featured Work
 
+#### [HR Ticket Triage & Auto-Resolution Agent](https://github.com/michaelromero212/HR-Ticket-Triage-Auto-Resolution-Agent)
+*AI-powered HR automation with real-time analytics, PII protection, and responsible AI governance.*
+- **Problem**: HR departments face high volumes of repetitive inquiries, slow response times, and inconsistent information delivery—while needing to protect sensitive employee data.
+- **Solution**: An enterprise-grade ticketing system that auto-classifies requests into 15 HR categories, resolves common questions (PTO, benefits, 401k) using RAG-grounded responses, and escalates sensitive issues automatically. Features real-time analytics, automatic PII detection/redaction, and a comprehensive AI governance framework.
+- **Business Impact**: Achieves 54.8% ticket deflection rate, reduces resolution time from 24+ minutes to 3.5 minutes, and demonstrates full-stack AI Ops capabilities: HuggingFace integration, confidence-based escalation thresholds, and WCAG 2.1 AA compliant UI.
+
 #### [AI SDR Performance Operations Dashboard](https://github.com/michaelromero212/AI-SDR-Performance-Operations-Dashboard)
 *Production-grade AI agent lifecycle management with governance, QA, and real-time monitoring.*
 - **Problem**: Managing AI sales agents at scale requires governance, quality assurance, and continuous optimization—not just LLM deployment.
