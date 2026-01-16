@@ -12,6 +12,18 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 - **Solution**: A simulation engine to stress-test and observe agent behavior in enterprise GTM workflows, featuring phased rollout management, performance benchmarking, and workflow tuning capabilities.
 - **Business Impact**: Demonstrates end-to-end AI agent lifecycle management for GTM: process optimization, QA coordination, A/B testing frameworks, and continuous improvement through data-driven iteration.
 
+#### [Databricks PS Knowledge Copilot](https://github.com/michaelromero212/Databricks-PS-Knowledge-Copilot)
+*Enterprise RAG assistant for Professional Services teams.*
+- **Problem**: Knowledge latency in high-stakes consulting environments leads to wasted search time and inconsistent answers across geographically distributed teams.
+- **Solution**: A FastAPI + React knowledge assistant using Retrieval-Augmented Generation (RAG) to ingest technical documentation and provide grounded, source-cited answers. Features local LLM integration (HuggingFace), ChromaDB vector search, and AI-powered document analysis with auto-generated summaries and topic tags.
+- **Business Impact**: Eliminates consultant "search time," centralizes tribal knowledge, and ensures consistent, accurate answers across the PS organization—directly enabling faster client engagements.
+
+#### [Engagement Runbook Generator](https://github.com/michaelromero212/Databricks-PS-AI-Engagement-Runbook-Generator)
+*Automating the consulting lifecycle with Databricks-native tooling.*
+- **Problem**: Manual formatting of engagement artifacts from kickoff notes, Slack exports, and architecture docs is error-prone and time-intensive—taking hours per engagement.
+- **Solution**: An NLP-driven automation tool using Python, FastAPI, and Databricks Workflows to ingest unstructured data and generate standardized runbooks. Features MLflow experiment tracking, Bronze-layer data validation, and automated extraction of technologies, risks, deliverables, and timelines.
+- **Business Impact**: Reduces runbook creation from **hours to minutes**, enables PS teams to scale concurrent engagements without manual overhead, and guarantees standardized document formats for all customer-facing deliverables.
+
 #### [HR Ticket Triage & Auto-Resolution Agent](https://github.com/michaelromero212/HR-Ticket-Triage-Auto-Resolution-Agent)
 *AI-powered HR automation with real-time analytics, PII protection, and responsible AI governance.*
 - **Problem**: HR departments face high volumes of repetitive inquiries, slow response times, and inconsistent information delivery—while needing to protect sensitive employee data.
@@ -23,16 +35,6 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 - **Problem**: Managing AI sales agents at scale requires governance, quality assurance, and continuous optimization—not just LLM deployment.
 - **Solution**: A complete AI Operations platform featuring automated QA (15+ test scenarios), compliance frameworks, A/B testing, conversion analytics, and real-time agent monitoring.
 - **Business Impact**: Demonstrates the full AI Ops PM skill set: process optimization, governance documentation, UAT coordination, KPI tracking, and field enablement.
-
-#### [Databricks Knowledge Copilot](https://github.com/michaelromero212/Databricks-PS-Knowledge-Copilot)
-*Enterprise RAG for Professional Services.*
-- **Problem**: Knowledge latency in high-stakes consulting environments.
-- **Solution**: A FastAPI + React assistant that provides grounded answers from authenticated technical documentation.
-
-#### [Engagement Runbook Generator](https://github.com/michaelromero212/Databricks-PS-AI-Engagement-Runbook-Generator)
-*Automating the consulting lifecycle.*
-- **Problem**: Manual formatting of engagement artifacts is error-prone and time-intensive.
-- **Solution**: An NLP-driven automation tool that transforms Slack exports and kickoff notes into client-ready runbooks.
 
 #### [Enterprise Mission Intelligence Copilot](https://github.com/michaelromero212/enterprise-mission-intel-copilot)
 *Turning unstructured data into actionable insights.*
