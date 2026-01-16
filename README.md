@@ -6,6 +6,12 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 
 ### 🛠️ Featured Work
 
+#### [AI Operations GTM Simulator](https://github.com/michaelromero212/ai-ops-gtm-simulator)
+*Operationalizing AI for Go-To-Market transformation.*
+- **Problem**: GTM AI agents lack production-readiness guardrails and observable performance metrics—making it difficult to scale AI-powered prospecting and sales operations.
+- **Solution**: A simulation engine to stress-test and observe agent behavior in enterprise GTM workflows, featuring phased rollout management, performance benchmarking, and workflow tuning capabilities.
+- **Business Impact**: Demonstrates end-to-end AI agent lifecycle management for GTM: process optimization, QA coordination, A/B testing frameworks, and continuous improvement through data-driven iteration.
+
 #### [HR Ticket Triage & Auto-Resolution Agent](https://github.com/michaelromero212/HR-Ticket-Triage-Auto-Resolution-Agent)
 *AI-powered HR automation with real-time analytics, PII protection, and responsible AI governance.*
 - **Problem**: HR departments face high volumes of repetitive inquiries, slow response times, and inconsistent information delivery—while needing to protect sensitive employee data.
@@ -17,11 +23,6 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 - **Problem**: Managing AI sales agents at scale requires governance, quality assurance, and continuous optimization—not just LLM deployment.
 - **Solution**: A complete AI Operations platform featuring automated QA (15+ test scenarios), compliance frameworks, A/B testing, conversion analytics, and real-time agent monitoring.
 - **Business Impact**: Demonstrates the full AI Ops PM skill set: process optimization, governance documentation, UAT coordination, KPI tracking, and field enablement.
-
-#### [AI Operations GTM Simulator](https://github.com/michaelromero212/ai-ops-gtm-simulator)
-*Operationalizing AI for scale.*
-- **Problem**: GTM AI agents lack production-readiness guardrails and observable performance metrics.
-- **Solution**: A simulation engine to stress-test and observe agent behavior in enterprise workflows.
 
 #### [Databricks Knowledge Copilot](https://github.com/michaelromero212/Databricks-PS-Knowledge-Copilot)
 *Enterprise RAG for Professional Services.*
