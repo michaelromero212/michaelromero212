@@ -6,6 +6,12 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 
 ### 🛠️ Featured Work
 
+#### [CrowdStrike Sales Intelligence Dashboard](https://github.com/michaelromero212/crowdstrike-sales-intelligence)
+*AI-powered sales analytics dashboard demonstrating data automation, GenAI/LLM integration, and GTM analytics capabilities.*
+- **Problem**: Sales teams spend 30+ minutes preparing for account reviews, lack visibility into churn risk factors, and struggle to prioritize at-risk accounts without unified analytics.
+- **Solution**: A professional Streamlit dashboard featuring real-time portfolio KPIs (ARR, Health Scores, Churn Risk), AI-generated account summaries via HuggingFace LLMs, automated risk flag detection, next-best-action recommendations, and competitive intelligence with AI-powered battle cards.
+- **Business Impact**: Reduces AE prep time from 30+ minutes to under 1 minute, provides instant AI-powered health assessments, and enables data-driven prioritization of at-risk accounts—demonstrating end-to-end GTM automation capabilities.
+
 #### [AI Operations GTM Simulator](https://github.com/michaelromero212/ai-ops-gtm-simulator)
 *Operationalizing AI for Go-To-Market transformation.*
 - **Problem**: GTM AI agents lack production-readiness guardrails and observable performance metrics—making it difficult to scale AI-powered prospecting and sales operations.
@@ -24,11 +30,6 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 - **Solution**: An NLP-driven automation tool using Python, FastAPI, and Databricks Workflows to ingest unstructured data and generate standardized runbooks. Features MLflow experiment tracking, Bronze-layer data validation, and automated extraction of technologies, risks, deliverables, and timelines.
 - **Business Impact**: Reduces runbook creation from **hours to minutes**, enables PS teams to scale concurrent engagements without manual overhead, and guarantees standardized document formats for all customer-facing deliverables.
 
-#### [HR Ticket Triage & Auto-Resolution Agent](https://github.com/michaelromero212/HR-Ticket-Triage-Auto-Resolution-Agent)
-*AI-powered HR automation with real-time analytics, PII protection, and responsible AI governance.*
-- **Problem**: HR departments face high volumes of repetitive inquiries, slow response times, and inconsistent information delivery—while needing to protect sensitive employee data.
-- **Solution**: An enterprise-grade ticketing system that auto-classifies requests into 15 HR categories, resolves common questions (PTO, benefits, 401k) using RAG-grounded responses, and escalates sensitive issues automatically. Features real-time analytics, automatic PII detection/redaction, and a comprehensive AI governance framework.
-- **Business Impact**: Achieves 54.8% ticket deflection rate, reduces resolution time from 24+ minutes to 3.5 minutes, and demonstrates full-stack AI Ops capabilities: HuggingFace integration, confidence-based escalation thresholds, and WCAG 2.1 AA compliant UI.
 
 #### [AI SDR Performance Operations Dashboard](https://github.com/michaelromero212/AI-SDR-Performance-Operations-Dashboard)
 *Production-grade AI agent lifecycle management with governance, QA, and real-time monitoring.*
@@ -62,3 +63,4 @@ I am deeply passionate about **working with data**, **building interactive dashb
 I specialize in building the "connective tissue"—the automation, observability, and data quality guardrails—that makes AI work in production.
 
 [LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Resume (Contact for Copy)](#)
+
