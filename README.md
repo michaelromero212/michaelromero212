@@ -6,7 +6,7 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 
 ### 🛠️ Featured Work
 
-#### [CrowdStrike Sales Intelligence Dashboard](https://github.com/michaelromero212/crowdstrike-sales-intelligence)
+#### [CrowdStrike Sales Intelligence Dashboard](https://github.com/michaelromero212/Crowdstrike-Sales-Intelligence-Dashboard)
 *AI-powered sales analytics dashboard demonstrating data automation, GenAI/LLM integration, and GTM analytics capabilities.*
 - **Problem**: Sales teams spend 30+ minutes preparing for account reviews, lack visibility into churn risk factors, and struggle to prioritize at-risk accounts without unified analytics.
 - **Solution**: A professional Streamlit dashboard featuring real-time portfolio KPIs (ARR, Health Scores, Churn Risk), AI-generated account summaries via HuggingFace LLMs, automated risk flag detection, next-best-action recommendations, and competitive intelligence with AI-powered battle cards.
@@ -63,4 +63,5 @@ I am deeply passionate about **working with data**, **building interactive dashb
 I specialize in building the "connective tissue"—the automation, observability, and data quality guardrails—that makes AI work in production.
 
 [LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Resume (Contact for Copy)](#)
+
 
