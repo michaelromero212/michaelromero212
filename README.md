@@ -12,11 +12,11 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 - **Solution**: A professional Streamlit dashboard featuring real-time portfolio KPIs (ARR, Health Scores, Churn Risk), AI-generated account summaries via HuggingFace LLMs, automated risk flag detection, next-best-action recommendations, and competitive intelligence with AI-powered battle cards.
 - **Business Impact**: Reduces AE prep time from 30+ minutes to under 1 minute, provides instant AI-powered health assessments, and enables data-driven prioritization of at-risk accounts—demonstrating end-to-end GTM automation capabilities.
 
-#### [AI Operations GTM Simulator](https://github.com/michaelromero212/ai-ops-gtm-simulator)
-*Operationalizing AI for Go-To-Market transformation.*
-- **Problem**: GTM AI agents lack production-readiness guardrails and observable performance metrics—making it difficult to scale AI-powered prospecting and sales operations.
-- **Solution**: A simulation engine to stress-test and observe agent behavior in enterprise GTM workflows, featuring phased rollout management, performance benchmarking, and workflow tuning capabilities.
-- **Business Impact**: Demonstrates end-to-end AI agent lifecycle management for GTM: process optimization, QA coordination, A/B testing frameworks, and continuous improvement through data-driven iteration.
+#### [GTM-AI-Workflow-Simulator](https://github.com/michaelromero212/GTM-AI-Workflow-Simulator)
+*Reducing friction across the GTM customer journey with AI workflows.*
+- **Problem**: Sales and CS teams lose pipeline velocity to manual lead research, inconsistent deal inspection, and reactive post-sales workflows — with no governance framework to safely deploy AI into these processes.
+- **Solution**: A simulator that models AI agent deployment across the full revenue lifecycle — pipeline generation, deal execution, onboarding, and renewal — with governance guardrails, QA gates, A/B testing, and KPI tracking built in from day one.
+- **Impact (Simulated)**: ~40% reduction in SDR research time, AI suggestion acceptance improved from 68% → 82% via structured prompt iteration, hallucination rate cut from 11% → 3% through pre-deployment QA.
 
 #### [Databricks PS Knowledge Copilot](https://github.com/michaelromero212/Databricks-PS-Knowledge-Copilot)
 *Enterprise RAG assistant for Professional Services teams.*
@@ -63,5 +63,3 @@ I am deeply passionate about **working with data**, **building interactive dashb
 I specialize in building the "connective tissue"—the automation, observability, and data quality guardrails—that makes AI work in production.
 
 [LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Resume (Contact for Copy)](#)
-
-
