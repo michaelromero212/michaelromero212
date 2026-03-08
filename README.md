@@ -6,11 +6,11 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 
 ### 🛠️ Featured Work
 
-#### [CrowdStrike Sales Intelligence Dashboard](https://github.com/michaelromero212/Crowdstrike-Sales-Intelligence-Dashboard)
-*AI-powered sales analytics dashboard demonstrating data automation, GenAI/LLM integration, and GTM analytics capabilities.*
-- **Problem**: Sales teams spend 30+ minutes preparing for account reviews, lack visibility into churn risk factors, and struggle to prioritize at-risk accounts without unified analytics.
-- **Solution**: A professional Streamlit dashboard featuring real-time portfolio KPIs (ARR, Health Scores, Churn Risk), AI-generated account summaries via HuggingFace LLMs, automated risk flag detection, next-best-action recommendations, and competitive intelligence with AI-powered battle cards.
-- **Business Impact**: Reduces AE prep time from 30+ minutes to under 1 minute, provides instant AI-powered health assessments, and enables data-driven prioritization of at-risk accounts—demonstrating end-to-end GTM automation capabilities.
+#### [Deepfake Data Forge: Multi-Modal MLOps Pipeline](https://github.com/michaelromero212/deepfake-data-tool)
+*End-to-end dataset preparation infrastructure demonstrating advanced data engineering, multi-modal processing (audio/video/image), and strict validation contracts for AI detection models.*
+- **Problem**: ML teams training deepfake detection models spend 80% of their time on unglamorous data wrangling—struggling with inconsistent file structures, corrupt media, undocumented label changes, and misaligned detection scores across hundreds of thousands of multi-modal assets.
+- **Solution**: A robust Python pipeline (built with Pydantic, Polars, and OpenCV) that automates the ingestion, labeling, and preprocessing of images, video, and audio. It features a mock EfficientNet ONNX classifier for baseline scoring, strict SHA-256 versioning algorithms to separate dev/training splits, schema-enforced JSON validation reports, and automated S3 cloud storage integration.
+- **Business Impact**: Transforms messy, unstructured directories of synthetic and real media into rigorously version-controlled, production-ready ML datasets. Guarantees 100% data integrity before model training begins, significantly accelerating research-to-production deployment for AI-generated media detection.
 
 #### [GTM-AI-Workflow-Simulator](https://github.com/michaelromero212/GTM-AI-Workflow-Simulator)
 *Reducing friction across the GTM customer journey with AI workflows.*
@@ -63,3 +63,4 @@ I am deeply passionate about **working with data**, **building interactive dashb
 I specialize in building the "connective tissue"—the automation, observability, and data quality guardrails—that makes AI work in production.
 
 [LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Resume (Contact for Copy)](#)
+
