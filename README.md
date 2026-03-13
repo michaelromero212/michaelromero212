@@ -6,6 +6,12 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 
 ### 🛠️ Featured Work
 
+#### [eCommerce Fraud & Risk Detection AI Platform](https://github.com/michaelromero212/eCommerce-Fraud-and-Risk-Detection-tool)
+*A production-grade eCommerce Fraud & Risk Detection AI platform demonstrating advanced rules-based scoring, interactive data science visualizations, and generative AI workflow integration.*
+- **Problem**: Security operations and fraud teams are overwhelmed by high volumes of transaction alerts and lack the immediate context needed to quickly distinguish legitimate high-value customers from sophisticated attacks (like Account Takeovers), leading to manual bottlenecks, alert fatigue, and revenue loss.
+- **Solution**: A robust Python analytics pipeline (built with Pandas, SQLAlchemy, and Streamlit) that automates the ingestion, scoring, and visualization of transactional data. It features a multi-layered risk engine simulating Threat Intelligence (ASN scoring) and ATO detection, an interactive dashboard utilizing advanced Plotly visualizations (Choropleth maps, statistical Treemaps), and native Google Gemini AI integration to generate qualitative, plain-English explanations for flagged anomalies.
+- **Business Impact**: Transforms raw, noisy eCommerce transaction logs into actionable, prioritized threat intelligence. Dramatically reduces manual investigation time for fraud analysts, accelerates incident response for critical threats, and empowers non-technical stakeholders with immediate transparency into complex risk decisions.
+
 #### [Deepfake Data Forge: Multi-Modal MLOps Pipeline](https://github.com/michaelromero212/deepfake-data-tool)
 *End-to-end dataset preparation infrastructure demonstrating advanced data engineering, multi-modal processing (audio/video/image), and strict validation contracts for AI detection models.*
 - **Problem**: ML teams training deepfake detection models spend 80% of their time on unglamorous data wrangling—struggling with inconsistent file structures, corrupt media, undocumented label changes, and misaligned detection scores across hundreds of thousands of multi-modal assets.
@@ -37,11 +43,6 @@ I bridge the gap between AI development and enterprise-grade deployment. My focu
 - **Solution**: A complete AI Operations platform featuring automated QA (15+ test scenarios), compliance frameworks, A/B testing, conversion analytics, and real-time agent monitoring.
 - **Business Impact**: Demonstrates the full AI Ops PM skill set: process optimization, governance documentation, UAT coordination, KPI tracking, and field enablement.
 
-#### [Enterprise Mission Intelligence Copilot](https://github.com/michaelromero212/enterprise-mission-intel-copilot)
-*Turning unstructured data into actionable insights.*
-- **Problem**: Critical mission data is often trapped in unstructured, high-latency formats.
-- **Solution**: An Applied AI analyst tool for automated document intelligence and validated extraction.
-
 ---
 
 ### 📂 Repository Index
@@ -63,4 +64,5 @@ I am deeply passionate about **working with data**, **building interactive dashb
 I specialize in building the "connective tissue"—the automation, observability, and data quality guardrails—that makes AI work in production.
 
 [LinkedIn](https://www.linkedin.com/in/michaelromero219/) | [Resume (Contact for Copy)](#)
+
 
